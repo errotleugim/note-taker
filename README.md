@@ -14,7 +14,7 @@
 
 ## Description
 This is an exercise in middleware. It is also a functional note-taking application, saving the notes to a local json file or deployed to heroku. 
-[Screenshot](https://github.com/errotleugim/note-taker/blob/master/sshot.png)
+![Screenshot](https://github.com/errotleugim/note-taker/blob/master/sshot.png)
 ## Installation
 It requires path, express and uuid. ALl to be installed through npm
 
